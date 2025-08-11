@@ -28,8 +28,8 @@ local PlaceholderColor = Color3.fromRGB(150, 150, 180)  -- 淡紫色占位符
 local DisabledTextColor = Color3.fromRGB(100, 100, 120)
 
 -- 图标资源 - 使用高质量黑洞主题图标
-local MinimizedIcon = "rbxassetid://7072706620"  -- 最小化图标
-local MaximizedIcon = "rbxassetid://7072710982"  -- 最大化图标
+local MinimizedIcon = "rbxassetid://16081893047"  -- 最小化图标
+local MaximizedIcon = "rbxassetid://16081893047"  -- 最大化图标
 
 function Tween(obj, t, data)
     services.TweenService
